@@ -1,36 +1,40 @@
-# Service Desk Telegram Bot [EN] 
-## is a convenient tool for automating the processing of technical requests from company employees. The bot allows users to quickly create support requests, select problem categories, attach descriptions and files (screenshots, photos), and track the status of requests.
+# 🚀 Service Desk Telegram Bot [EN]
 
-🔹 Main functions
-📌 For users (you can edit for yourself):
-✅ Select a problem category (Computer, MFP, EDI, Other)
-✅ Refine the subcategory (e.g., “Does not turn on”, “Slow”, “Internet problems”)
-✅ Adding a description of the problem (text + possibility to attach a file)
-✅ Confirming and sending the request
-✅ Receiving notifications about request status (in progress, completed)
+**Service Desk Telegram Bot** is a convenient tool for automating the processing of technical requests of company employees via Telegram. The bot allows you to quickly create, track and manage service desk requests.
 
-📌 For administrators:
-🛠 Viewing all requests
-🛠 Changing the status (open, in progress, completed) [in development]
-🛠 Adding comments to requests [in development]
-🛠 Notifications of new requests
+## 🌟 Main functions
 
-# Service Desk Telegram Bot [RU]
-## это удобный инструмент для автоматизации обработки технических заявок сотрудников компании. Бот позволяет пользователям быстро создавать заявки в службу поддержки, выбирать категории проблем, прикреплять описание и файлы (скриншоты, фото), а также отслеживать статус заявок.
+### 👨‍💻 For users
+- 📋 Select problem category (Computer, MFP, EDI, Other)
+- 🔍 Refine the subcategory (e.g., “Does not turn on”, “Slow”)
+- ✏️ Add a description of the problem with an option to attach files
+- ✅ Confirming and submitting the request
+- 🔔 Notifications about request status (in progress/completed)
 
-🔹 Основные функции
-📌 Для пользователей (можно редактировать под себя):
-✅ Выбор категории проблемы (Компьютер, МФУ, Электронный документооборот, Другое)
-✅ Уточнение подкатегории (например, "Не включается", "Медленно работает", "Проблемы с интернетом")
-✅ Добавление описания проблемы (текст + возможность прикрепить файл)
-✅ Подтверждение и отправка заявки
-✅ Получение уведомлений о статусе заявки (в работе, выполнено)
+### 👨‍🔧 For administrators
+- 📊 View all requests
+- 🛠 Change request status [in progress]
+- 💬 Adding comments to requests [in development]
+- 🔔 Notifications of new applications
 
-📌 Для администраторов:
-🛠 Просмотр всех заявок
-🛠 Изменение статуса (открыта, в работе, выполнена) [в разработке]
-🛠 Добавление комментариев к заявкам [в разработке]
-🛠 Уведомления о новых заявках
+# 🚀 Service Desk Telegram Bot [RU]
+
+**Service Desk Telegram Bot** – это удобный инструмент для автоматизации обработки технических заявок сотрудников компании через Telegram. Бот позволяет быстро создавать, отслеживать и управлять заявками в службе поддержки.
+
+## 🌟 Основные функции
+
+### 👨‍💻 Для пользователей
+- 📋 Выбор категории проблемы (Компьютер, МФУ, ЭДО, Другое)
+- 🔍 Уточнение подкатегории (например, "Не включается", "Медленно работает")
+- ✏️ Добавление описания проблемы с возможностью прикрепления файлов
+- ✅ Подтверждение и отправка заявки
+- 🔔 Уведомления о статусе заявки (в работе/выполнено)
+
+### 👨‍🔧 Для администраторов
+- 📊 Просмотр всех заявок
+- 🛠 Изменение статуса заявок [в разработке]
+- 💬 Добавление комментариев к заявкам [в разработке]
+- 🔔 Уведомления о новых заявках
 
 # ServiceDeskBot
 
