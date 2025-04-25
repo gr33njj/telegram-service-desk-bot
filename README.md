@@ -1,4 +1,5 @@
-# Service Desk Telegram Bot is a convenient tool for automating the processing of technical requests from company employees. The bot allows users to quickly create support requests, select problem categories, attach descriptions and files (screenshots, photos), and track the status of requests.
+# Service Desk Telegram Bot [EN] 
+## is a convenient tool for automating the processing of technical requests from company employees. The bot allows users to quickly create support requests, select problem categories, attach descriptions and files (screenshots, photos), and track the status of requests.
 
 🔹 Main functions
 📌 For users (you can edit for yourself):
@@ -14,7 +15,8 @@
 🛠 Adding comments to requests [in development]
 🛠 Notifications of new requests
 
-# Service Desk Telegram Bot – это удобный инструмент для автоматизации обработки технических заявок сотрудников компании. Бот позволяет пользователям быстро создавать заявки в службу поддержки, выбирать категории проблем, прикреплять описание и файлы (скриншоты, фото), а также отслеживать статус заявок.
+# Service Desk Telegram Bot [RU]
+## это удобный инструмент для автоматизации обработки технических заявок сотрудников компании. Бот позволяет пользователям быстро создавать заявки в службу поддержки, выбирать категории проблем, прикреплять описание и файлы (скриншоты, фото), а также отслеживать статус заявок.
 
 🔹 Основные функции
 📌 Для пользователей (можно редактировать под себя):
